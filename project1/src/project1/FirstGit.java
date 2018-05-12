@@ -7,6 +7,20 @@ public class FirstGit {
 		System.out.println("ben");
 		System.out.println("singisdjggakjhjkhkjhkjhjhjkhgdsagadsdafkldsjglajgh");
 
+
+		
+		System.out.println("Rihanna");
+
+		System.out.println("Avin here");
+
+		System.out.println("push it real good");
+	
+		System.out.println("Juel");
+		System.out.println("saymon");
+
+
+
+
 	}
 //username=tatentek
 //pass ttjob123//
