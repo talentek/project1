@@ -8,6 +8,19 @@ public class FirstGit {
 		System.out.println("Omeko");
 	
 
+		
+		System.out.println("Rihanna");
+
+		System.out.println("Avin here");
+
+		System.out.println("push it real good");
+	
+		System.out.println("Juel");
+		System.out.println("saymon");
+
+
+
+
 	}
 
 }
