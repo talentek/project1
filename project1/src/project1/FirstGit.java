@@ -4,7 +4,15 @@ public class FirstGit {
 
 	public static void main(String[] args) {
 		System.out.println("Test 1");
+
 		System.out.println("ben");
+		System.out.println("singisdjggakjhjkhkjhkjhjhjkhgdsagadsdafkldsjglajgh");
+
+
+		System.out.println("ben");
+		System.out.println("Omeko!");
+	
+
 
 		System.out.println("Future Automation Engineers");
 
@@ -19,8 +27,6 @@ public class FirstGit {
 	
 		System.out.println("Juel");
 		System.out.println("saymon");
-		
-		System.out.println("Nahin is gucci");
 
 	}
 
