@@ -5,10 +5,8 @@ public class FirstGit {
 	public static void main(String[] args) {
 		System.out.println("Test 1");
 		System.out.println("ben");
-<<<<<<< HEAD
-		System.out.println("Billah");
-=======
 
+		System.out.println("Future Automation Engineers");
 
 		System.out.println("Nahin");
 
@@ -24,9 +22,6 @@ public class FirstGit {
 		
 		System.out.println("Nahin is gucci");
 
-
-
->>>>>>> branch 'master' of https://github.com/talentek/project1.git
 	}
 
 }
