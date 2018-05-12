@@ -5,7 +5,7 @@ public class FirstGit {
 	public static void main(String[] args) {
 		System.out.println("Test 1");
 		System.out.println("ben");
-		System.out.println("push it real good");
+		System.out.println("push it reall good");
 
 	}
 
