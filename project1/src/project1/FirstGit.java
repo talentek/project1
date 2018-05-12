@@ -2,8 +2,11 @@ package project1;
 
 public class FirstGit {
 
-	public static void main(String[] args) {
+	public static void main(String args) {
 		System.out.println("Test 1");
+		System.out.println("ben");
+System.out.println("Jay");
+
 
 		System.out.println("ben");
 		System.out.println("singisdjggakjhjkhkjhkjhjhjkhgdsagadsdafkldsjglajgh");
@@ -14,6 +17,7 @@ public class FirstGit {
 	
 
 
+		System.out.println("Future Automation Engineers");
 
 		System.out.println("Nahin");
 
@@ -27,16 +31,12 @@ public class FirstGit {
 		System.out.println("Juel");
 		System.out.println("saymon");
 
-		
-
-
-		
-		System.out.println("Nahin is gucci");
-
 
 
 
 	}
 //username=talentek
 //pass ttjob123//
+=======
+
 }
